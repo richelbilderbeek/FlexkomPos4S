@@ -1,6 +1,6 @@
 # FlexkomPos4S
 
-This project is about replacing the OS of the Flexkom POS 4S tablet. I obtained this tablet from some people that feel ripped-off by Flexkom ([as are others](http://mlmforum.nl/forums/topic/flexkom-gedupeerden-verzamelen))([note to self about BeepXtra](http://www.stupidityiscontagious.com/reviews/beepxtra-review-is-beepxtra-a-scam-or-legitimate-opportunity/comment-page-1) and would like me to put the tablet to good use.
+This project is about replacing the OS of the Flexkom POS 4S tablet. I obtained this tablet from some people that feel ripped-off by Flexkom ([as are others](http://mlmforum.nl/forums/topic/flexkom-gedupeerden-verzamelen))([note to self about BeepXtra](http://www.stupidityiscontagious.com/reviews/beepxtra-review-is-beepxtra-a-scam-or-legitimate-opportunity/comment-page-1)) and would like me to put the tablet to good use.
 
  * [Specs from a video by Wouter Hol](https://www.youtube.com/watch?v=45eP8jXUkyo)
 
